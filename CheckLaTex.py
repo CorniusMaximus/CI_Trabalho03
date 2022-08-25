@@ -1,3 +1,4 @@
+#EDUARDO HENRIQUE MACHADO VIEIRA
 import re
 Proposicao = re.compile(r'[A-Za-z0-9]+')
 

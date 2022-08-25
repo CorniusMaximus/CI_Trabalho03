@@ -1,3 +1,5 @@
+#EDUARDO HENRIQUE MACHADO VIEIRA
+
 """
 Para  obter  os  pontos  relativos  a  este  trabalho,  você  deverá  fazer  um  programa,  usando  a 
 linguagem de programação que desejar, que seja capaz de validar expressões de lógica propisicional 
